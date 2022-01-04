@@ -1,0 +1,5 @@
+rootProject.name = 'crud-grpc'
+include 'crud-common'
+include 'crud-server'
+include 'crud-client'
+
